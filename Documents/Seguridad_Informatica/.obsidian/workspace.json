@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6e4d5a1d4d54556a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c3c0d252005863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef08fa97dfc4bb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice_Cuestionario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice_Cuestionario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bee6ccfff218dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d05c43eb66d2946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8727c64b94de38c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b2fd264b24ce152",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead75549f4d05e06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05600c0ce47ff180",
+    "type": "split",
+    "children": [
+      {
+        "id": "68829114c67b151a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b9a91bbf387d6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "562290131fcc155d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "15b49d0efa12e0bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a2c22f488c780e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ef08fa97dfc4bb14",
+  "lastOpenFiles": [
+    "Definición y Propósito ISO-IEC 27001.md",
+    "Indice_Cuestionario.md",
+    "Caso Práctico PyME ISO y NIST.md",
+    "Ventajas y Desventajas ISO y NIST.md",
+    "Tabla Comparativa ISO y NIST.md",
+    "Similitudes ISO-IEC 27001 y NIST CSF.md",
+    "Reflexión Crítica ISO vs NIST.md",
+    "Funciones del NIST CSF.md",
+    "Complementariedad ISO y NIST.md",
+    "Comparación de Enfoques ISO vs NIST.md",
+    "Untitled.md",
+    "ISO_vs_NIST.md",
+    "Untitled.base",
+    "Glosario_de_Terminos_de_Seguridad.md",
+    "Untitled",
+    "Glosario de Términos de Seguridad.md",
+    "Welcome.md",
+    "ISO vs NIST.md",
+    "create a link.md"
+  ]
+}
